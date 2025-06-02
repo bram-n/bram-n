@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 📫 Reach me at **bnutt@macalester.edu**
+- 📫 Reach me at **bramnutt@gmail.com**
